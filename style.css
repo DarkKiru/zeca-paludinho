@@ -1,5 +1,5 @@
  body {
-    background-color: black;
+    background-color: rgb(126, 16, 16);
  } 
 * {
     padding:0 ;
@@ -37,4 +37,8 @@
     margin: 10px;
     padding-top: 2px;
     padding-left: 10%;
+}
+.textop {
+    display: flex;
+    color: aliceblue;
 }
