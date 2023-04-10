@@ -40,8 +40,11 @@
 }
 .textop {
     display: flex;
-    color: aliceblue;
+    margin: 25px;
+    color:rgb(20, 4, 4)
+    
 }
 .pipa {
     width: 20%;
+    margin: 10px;
 }
